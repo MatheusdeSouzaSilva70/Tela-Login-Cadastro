@@ -4,7 +4,7 @@
 #### Novo projeto de LandingPage de Login & Cadastro feito com HTML,CSS,JAVASCRIT.
 
 ## Recursos
-- Responsivo 100%.
+- Responsivo 100%
 
 ## Links:
 - Projeto:https://matheusdesouzasilva70.github.io/Tela-Login-Cadastro/
